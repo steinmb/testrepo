@@ -1,13 +1,9 @@
 {% include nav.html %}
 # My very own website
 
+I 1886 skapte forfatteren Ambrose Bierce det fiktive Carcosa. Et sted der det euforiske, grusomme og overnaturlige møter menneskelig dekadense, nihilisme og lidelse.
 
-* [En](dir1/test.md)
-* [To](dir2/test.md)
-* [En](dir1/test.md)
-* [To](dir2/test.md)
-* [En](dir1/test.md)
-* [To](dir2/test.md)
+Novellen «An Inhabitant of Carcosa» ble inspirasjonen til skrekkbautaen «The King in Yellow» av Robert W. Chambers i 1895 og H. P. Lovecrafts Cthulu-univers noen tiår senere.
 
 ## Sections
 
