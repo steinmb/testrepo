@@ -1,2 +1,5 @@
 theme: jekyll-theme-minimal
 title: Testing static generated Github pages documentation
+github:
+  is_project_page: false
+show_downloads: false
