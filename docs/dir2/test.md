@@ -1,6 +1,8 @@
-[Home](../)
+[Home](../index.md)
 
 # Test 2
+
+Novellen «An Inhabitant of Carcosa» ble inspirasjonen til skrekkbautaen «The King in Yellow» av Robert W. Chambers i 1895 og H. P. Lovecrafts Cthulu-univers noen tiår senere.
 
 ## Types of extensions
 

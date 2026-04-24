@@ -1,4 +1,4 @@
-[Home](../)
+[Home](../index.md)
 
 # Each class must be in its own file
 
