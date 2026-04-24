@@ -1,6 +1,6 @@
 [View all documentation](./sitemap.md)
 
-# Background
+## Background
 
 I 1886 skapte forfatteren Ambrose Bierce det fiktive Carcosa. Et sted der det euforiske, grusomme og overnaturlige møter menneskelig dekadense, nihilisme og lidelse.
 
