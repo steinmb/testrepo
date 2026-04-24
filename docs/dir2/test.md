@@ -1,3 +1,5 @@
+[Home](../) > Dir 1 > Test
+
 # Test 2
 
 ## Types of extensions

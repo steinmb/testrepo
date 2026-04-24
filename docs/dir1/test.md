@@ -1,3 +1,5 @@
+[Home](../) > Dir 1 > Test
+
 # Test 1
 
 Each class must be in its own file.
