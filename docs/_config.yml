@@ -1,2 +1,4 @@
-theme: jekyll-theme-architect
+theme: jekyll-theme-slate
 title: Testing static generated Github pages documentation
+github:
+  is_project_page: false
